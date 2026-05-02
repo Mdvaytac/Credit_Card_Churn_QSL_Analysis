@@ -1,1 +1,1 @@
-# Credit_Card_Churn_QSL_Analysis
+# Credit_Card_Churn_SQL_Analysis
